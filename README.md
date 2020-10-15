@@ -11,8 +11,8 @@ It doesn't have any sort of graphics
 
 * Run the below command in terminal or cmd:
 
-$ python script1.py
+$ python Hangman.py
 
 or
 
-$ python3 script1.py
+$ python3 Hangman.py
